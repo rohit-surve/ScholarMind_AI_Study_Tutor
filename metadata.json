@@ -1,0 +1,6 @@
+{
+  "name": "ScholarMind - AI Study Assistant",
+  "description": "An intelligent AI Study Assistant with interactive tutoring, study modes, multi-format quiz generator, flashcards, document RAG, study planning, and progress tracking.",
+  "requestFramePermissions": ["microphone"],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
